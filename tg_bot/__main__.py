@@ -27,13 +27,13 @@ def escape_html(word):
     return escape(word)
 
 PM_START_TEXT = """
-Hello *{}* My name is *MissTina*!
+Hello *{}* My name is *Coding Mania Manager*!
 
 I'm here to manage your groups! 
 
 Click Help button to find out more about how to use me to my full potential. 
 
-Made by @CyberBoyAyush
+Made by @Bhivorsinghrajpoot
 
 Made With 💗 In 🇮🇳
 """
